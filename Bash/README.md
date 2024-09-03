@@ -13,7 +13,7 @@
 
 ### Add OhMyPosh to PATH
 > [!IMPORTANT]  
-> OhMyPosh was not added to the PATH by default. However, the installer gave a warning which provided a line of code to add OhMyPosh to the PATH. Ensure run that line of code. 
+> OhMyPosh was not added to the PATH by default. However, the installer gave a warning which provided a line of code to add OhMyPosh to the PATH. Ensure you run that line if the warning appears. 
 
 ### Edit ~/.profile 
 
