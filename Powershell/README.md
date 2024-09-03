@@ -8,28 +8,23 @@ This is probably shipping out of the box. If not get it from the windows store
 ### Install Font
 Right click -> install `MesloLGMDZNerdFontMono-Regular.ttf`
 
-### Install Powershell Core
+### [Install Powershell Core](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4)
+
 ```
 winget install --id Microsoft.PowerShell --source winget
 ```
 
-https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4
 
-
-### Install Oh My Posh
+### [Install Oh My Posh](https://ohmyposh.dev/docs/installation/windows)
 ```
 winget install JanDeDobbeleer.OhMyPosh -s winget
 ```
 
-https://ohmyposh.dev/docs/installation/windows
+### [Install Terminal Icons](https://learn.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup#)
 
-### Install Terminal Icons
 ```
 Install-Module -Name Terminal-Icons -Repository PSGallery
 ```
-
-https://learn.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup#
-
 ## Create powershell profile
 
 - Edit the profile.ps1 in this repo, replacing the variables in `<>`
